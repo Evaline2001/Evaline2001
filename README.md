@@ -1,31 +1,41 @@
 # 👋 Hi there, I'm Evaline Atieno!
 
-🎓 A passionate Computer Science graduate from Nairobi, Kenya.  
-💻 Aspiring software developer with interests in web development, desktop applications, and tech for social impact.
+🎓 Computer Science Graduate | IT Specialist | Aspiring Software Developer
+💻 Passionate about building scalable web solutions, desktop applications, and leveraging technology for social impact.
 
 ---
 
 ## 👀 I’m interested in:
-- Full-stack web development
-- Building impactful solutions with code
-- Open source collaboration
-- Women in Tech & Developer Communities
-
+Full-stack web development (Frontend + Backend)
+Software engineering & IT systems support
+Open source collaboration & community building
+Women in Tech & developer advocacy
+Videography, digital storytelling, and creative animations
+Exploring AI-powered content generation
 ---
 
 ## 🌱 I’m currently learning:
-- JavaScript & React.js
-- Git and GitHub workflows
-- Backend development with Node.js
+JavaScript, React.js, and modern frontend frameworks
+Backend development with Node.js & databases
+Git & GitHub workflows
+Videography, motion graphics, and animation
+AI content generation (text-to-image/video)
 
 ---
-
-## 💞️ I’m looking to collaborate on:
-- Open source projects
-- Student/community-led developer initiatives
-- Frontend projects using HTML, CSS, JavaScript
-
+💼 Projects & Experience
+IT Specialist at Bittiner – providing technical support, systems management, and IT infrastructure solutions.
+Web-based Filing System – designed and implemented an online document management solution.
+Hardware & Software Troubleshooting – hands-on experience in diagnosing, configuring, and resolving technical issues.
+Open Source Contributions – collaborative coding, testing, and documentation on student-led projects.
+Creative Media Experiments – producing short animations, AI-generated visuals, and storytelling through video.
 ---
+##💞️ Collaboration
+I’m open to contributing to:
+Open source projects
+Web development and IT automation solutions
+Community-driven developer initiatives
+Creative digital projects (videography, animation & AI generation)
+
 
 ## 📫 How to reach me:
 - 📧 Email: [evalineatieno724@gmail.com](mailto:evalineatieno724@gmail.com)
