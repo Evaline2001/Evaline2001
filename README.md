@@ -22,20 +22,23 @@ Videography, motion graphics, and animation
 AI content generation (text-to-image/video)
 
 ---
-💼 Projects & Experience
+## 💼 Projects & Experience
 IT Specialist at Bittiner – providing technical support, systems management, and IT infrastructure solutions.
 Web-based Filing System – designed and implemented an online document management solution.
 Hardware & Software Troubleshooting – hands-on experience in diagnosing, configuring, and resolving technical issues.
 Open Source Contributions – collaborative coding, testing, and documentation on student-led projects.
 Creative Media Experiments – producing short animations, AI-generated visuals, and storytelling through video.
+
+
 ---
-##💞️ Collaboration
+
+## 💞️ Collaboration
 I’m open to contributing to:
 Open source projects
 Web development and IT automation solutions
 Community-driven developer initiatives
 Creative digital projects (videography, animation & AI generation)
-
+---
 
 ## 📫 How to reach me:
 - 📧 Email: [evalineatieno724@gmail.com](mailto:evalineatieno724@gmail.com)
